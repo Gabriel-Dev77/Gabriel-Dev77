@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a33,100:0072ff&height=200&section=header&text=Gabriel%20Pereira&fontSize=40&fontColor=00E5FF&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://images.unsplash.com/photo-1619796404374-aff912b43cd2?fm=jpg&q=80&w=1600&auto=format&fit=crop" width="100%" height="260" style="object-fit:cover; border-radius:8px;"/>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
-&nbsp;
+<sub><i>"Aprender um pouco todo dia é melhor do que tentar saber tudo de uma vez."</i></sub>
 
-> *"Aprender um pouco todo dia é melhor do que tentar saber tudo de uma vez."*
-
-&nbsp;
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Gabriel-Dev77&label=Visualiza%C3%A7%C3%B5es&color=0072ff&style=flat-square" alt="profile views"/>
 
@@ -20,7 +20,7 @@
 
 ## 🧠 Sobre mim
 
-Sou **Gabriel**, estudante de **Ciência da Computação** na PUC Goiás (2022–2027), de Goiânia - GO.
+Sou estudante de **Ciência da Computação** na PUC Goiás (2022–2027), de Goiânia - GO.
 Gosto de entender como as coisas funcionam por trás — API, banco de dados, lógica de sistema — e vou construindo esse conhecimento na prática, um projeto de cada vez.
 
 - 🎓 Ciência da Computação — PUC Goiás
@@ -63,7 +63,7 @@ Gosto de entender como as coisas funcionam por trás — API, banco de dados, l�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dev77&show_icons=true&bg_color=0D1117&title_color=00E5FF&icon_color=0072FF&text_color=C9D1D9&border_color=0072FF&count_private=true&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Dev77&show_icons=true&bg_color=0D1117&title_color=00E5FF&icon_color=0072FF&text_color=C9D1D9&border_color=0072FF&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dev77&layout=compact&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=0072FF&langs_count=8" height="165"/>
 
 <br><br>
@@ -78,27 +78,7 @@ Gosto de entender como as coisas funcionam por trás — API, banco de dados, l�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Dev77&bg_color=0D1117&color=00E5FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Dev77&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10&row=2" />
-
-</div>
-
-<br>
-
-## 🐍 Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gabriel-Dev77/Gabriel-Dev77/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Dev77&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 </div>
 
