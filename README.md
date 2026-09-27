@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1619796404374-aff912b43cd2?fm=jpg&q=80&w=1600&auto=format&fit=crop" width="100%" height="260" style="object-fit:cover; border-radius:8px;"/>
+<img src="assets/banner.png" width="100%"/>
 
 <br><br>
 
@@ -78,7 +78,7 @@ Gosto de entender como as coisas funcionam por trás — API, banco de dados, l�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Dev77&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Dev77&theme=react-dark&hide_border=true&area=true&custom_title=Gabriel's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -111,4 +111,3 @@ Gosto de entender como as coisas funcionam por trás — API, banco de dados, l�
 <sub>🖤💙 feito aos poucos, aprendendo no processo.</sub>
 
 </div>
-Update README.md
